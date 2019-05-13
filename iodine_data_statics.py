@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import scipy.stats as stats
-import scipy.optimize as opt
 
 plt.rcParams['font.family'] = ['YaHei Consolas Hybrid']  # 用来正常显示中文标签
 # 测量日期
